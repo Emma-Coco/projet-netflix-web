@@ -5,9 +5,7 @@ Afin de débuter dans l'utilisation de React et des ressources API, ainsi que po
 # Présentation du site
 
 
-
-https://github.com/Emma-Coco/projet-netflix-web/assets/118276052/25f43b73-9319-4dd3-835d-7ab1177b23e6
-
+https://github.com/Emma-Coco/projet-netflix-web/assets/118276052/26321057-b5f6-419a-9d89-22e19cc82004
 
 
 
